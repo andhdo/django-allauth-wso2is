@@ -1,5 +1,5 @@
 =====
-django-allauth_wso2is
+django-allauth-wso2is
 =====
 
 Client connector module to work with wso2is.
